@@ -1,0 +1,11 @@
+{
+  "tasks": [
+    { "id": "1", "title": "Setup Angular Project", "description": "Initialize Angular with NgRx and Tailwind CSS", "status": "completed", "priority": "high", "dueDate": "2025-01-10", "createdAt": "2025-01-01T10:00:00.000Z" },
+    { "id": "2", "title": "Build Dashboard with Chart.js", "description": "Create responsive dashboard with charts", "status": "completed", "priority": "high", "dueDate": "2025-01-15", "createdAt": "2025-01-05T10:00:00.000Z" },
+    { "id": "3", "title": "Implement NgRx State Management", "description": "Setup actions, reducers, effects and selectors", "status": "in-progress", "priority": "high", "dueDate": "2025-02-01", "createdAt": "2025-01-10T10:00:00.000Z" },
+    { "id": "4", "title": "Write Unit Tests", "description": "Write tests for all components and services", "status": "pending", "priority": "medium", "dueDate": "2025-02-10", "createdAt": "2025-01-12T10:00:00.000Z" },
+    { "id": "5", "title": "Setup GitHub Actions CI/CD", "description": "Configure automated build and deploy pipeline", "status": "in-progress", "priority": "medium", "dueDate": "2025-02-15", "createdAt": "2025-01-15T10:00:00.000Z" },
+    { "id": "6", "title": "REST API Integration", "description": "Integrate backend API for data communication", "status": "pending", "priority": "low", "dueDate": "2025-02-20", "createdAt": "2025-01-08T10:00:00.000Z" },
+    { "id": "7", "title": "Mobile Responsive Design", "description": "Ensure all pages are fully responsive", "status": "overdue", "priority": "medium", "dueDate": "2025-01-05", "createdAt": "2025-01-02T10:00:00.000Z" }
+  ]
+}
